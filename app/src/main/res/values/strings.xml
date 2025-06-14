@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DoIt</string>
+    <string name="empty_state_default">No tasks yet. Add your first task!</string>
+    <string name="empty_state_search">No tasks match your search.</string>
+    <string name="empty_state_completed">No completed tasks found.</string>
+    <string name="empty_state_in_progress">No in-progress tasks found.</string>
+    <string name="empty_state_pending">No pending tasks found.</string>
+    <string name="empty_state_filter">No tasks found for this filter.</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_user">Welcome, User!</string>
+    <string name="search_icon_desc">Search icon</string>
+    <string name="find_next_move">Find your next move...</string>
+    <string name="settings">Settings</string>
+    <string name="add_task_desc">Add a new task</string>
+    <string name="options_menu">Task options menu</string>
+</resources>
+

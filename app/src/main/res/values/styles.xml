@@ -1,0 +1,19 @@
+<resources>
+    <style name="PopupMenuTextAppearance" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textColor">@color/popupMenuTextColor</item>
+    </style>
+    <!-- Added missing CustomPopupMenu style -->
+    <style name="CustomPopupMenu" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:popupBackground">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="CustomDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_bg_rounded</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+        <item name="android:windowElevation">12dp</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+</resources>
